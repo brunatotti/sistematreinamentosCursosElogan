@@ -1,0 +1,25 @@
+[Mar 20 12:17:17] 
+[Mar 20 12:17:17] [PHP ERR][WARN] MSG:filesize(): stat failed for 20191110_cursoselogan_bec78ff103b14b038789_20191113010546_archive.zip [CODE:2|FILE:D:\xampp\htdocs\wp\installer-backup.php|LINE:119]
+[Mar 20 12:17:17] ==DUPLICATOR INSTALLER BOOTSTRAP v1.3.22==
+[Mar 20 12:17:17] ----------------------------------------------------
+[Mar 20 12:17:17] Installer bootstrap start
+[Mar 20 12:17:17] Using archive D:/xampp/htdocs/wp/20191110_cursoselogan_bec78ff103b14b038789_20191113010546_archive.zip
+[Mar 20 12:17:17] Manual extract found so not going to extract dup-installer dir
+[Mar 20 12:17:17] ERROR: Didn't need to extract the installer.
+[Mar 20 12:17:17] Set permissions of D:/xampp/htdocs/wp/dup-installer to 0<br/>
+[Mar 20 12:17:17] Set permissions of D:/xampp/htdocs/wp/dup-installer/assets to 0<br/>
+[Mar 20 12:17:17] Set permissions of D:/xampp/htdocs/wp/dup-installer/classes to 0<br/>
+[Mar 20 12:17:17] Set permissions of D:/xampp/htdocs/wp/dup-installer/ctrls to 0<br/>
+[Mar 20 12:17:17] Set permissions of D:/xampp/htdocs/wp/dup-installer/favicon to 0<br/>
+[Mar 20 12:17:17] Set permissions of D:/xampp/htdocs/wp/dup-installer/lib to 0<br/>
+[Mar 20 12:17:17] Set permissions of D:/xampp/htdocs/wp/dup-installer/views to 0<br/>
+[Mar 20 12:17:17] Set permissions of D:/xampp/htdocs/wp/dup-installer/dup-archive__bec78ff-13010546.txt to 0<br/>
+[Mar 20 12:17:17] Set permissions of D:/xampp/htdocs/wp/dup-installer/dup-database__bec78ff-13010546.sql to 0<br/>
+[Mar 20 12:17:17] Set permissions of D:/xampp/htdocs/wp/dup-installer/dup-installer-csrf__bec78ff-13010546.txt to 0<br/>
+[Mar 20 12:17:17] Set permissions of D:/xampp/htdocs/wp/dup-installer/dup-installer-log__bec78ff-13010546.txt to 0<br/>
+[Mar 20 12:17:17] Set permissions of D:/xampp/htdocs/wp/dup-installer/dup-installer-notices__bec78ff-13010546.json to 0<br/>
+[Mar 20 12:17:17] Set permissions of D:/xampp/htdocs/wp/dup-installer/dup-scan__bec78ff-13010546.json to 0<br/>
+[Mar 20 12:17:17] Set permissions of D:/xampp/htdocs/wp/dup-installer/index.php to 0<br/>
+[Mar 20 12:17:17] Set permissions of D:/xampp/htdocs/wp/dup-installer/installer-state.txt to 0<br/>
+[Mar 20 12:17:17] Set permissions of D:/xampp/htdocs/wp/dup-installer/main.installer.php to 0<br/>
+[Mar 20 12:17:17] DONE: No detected errors so redirecting to the main installer. Main Installer URI = http://localhost/wp/dup-installer/main.installer.php

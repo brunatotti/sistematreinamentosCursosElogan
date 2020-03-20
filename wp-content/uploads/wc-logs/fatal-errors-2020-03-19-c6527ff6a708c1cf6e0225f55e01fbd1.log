@@ -1,0 +1,4 @@
+2020-03-19T23:14:20+00:00 CRITICAL Maximum execution time of 30 seconds exceeded, em D:\xampp\htdocs\wp\wp-content\plugins\badgeos\includes\admin-settings.php, na linha 16
+
+2020-03-19T23:27:29+00:00 CRITICAL Maximum execution time of 30 seconds exceeded, em D:\xampp\htdocs\wp\wp-includes\Requests\Transport\cURL.php, na linha 441
+
